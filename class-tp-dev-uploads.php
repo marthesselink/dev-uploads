@@ -8,7 +8,7 @@
  * Author: Mart Hesselink
  * Author URI: https://github.com/marthesselink
  *
- * Version: 1.0.5
+ * Version: 1.0.6
  */
 
 class TP_Dev_Uploads {
