@@ -1,12 +1,12 @@
 <?php
 /**
- * Plugin Name: Development uploads
- * Description: Placeholder images for development and staging environments.
+ * Plugin Name: Development Kitten Uploads
+ * Description: Placeholder images of kittens for development and staging environments.
  *
- * Plugin URI: https://gcomhub.com/trendwerk/dev-uploads
+ * Plugin URI: https://github.com/marthesselink/dev-uploads
  *
- * Author: Trendwerk
- * Author URI: https://github.com/trendwerk
+ * Author: Mart Hesselink
+ * Author URI: https://github.com/marthesselink
  *
  * Version: 1.0.5
  */
