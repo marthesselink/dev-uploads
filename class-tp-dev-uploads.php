@@ -19,7 +19,7 @@ class TP_Dev_Uploads {
     }
 
     /**
-     * Redirect images from uploads to placehold.it on develop and release environments if they don't exist
+     * Redirect images from uploads to placekitten.com on develop and release environments if they don't exist
      *
      * @param  string $rules WordPress' own rules
      * @return string        New rules
