@@ -9,5 +9,5 @@ Depends on `WP_ENV`.
 
 WPACKAGIST NOT YET AVAILABLE - use github instead
 ```sh
-composer require marthesselink/dev-uploads --dev
+composer require marthesselink/dev-uploads-kittens --dev
 ```
