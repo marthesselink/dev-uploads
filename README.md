@@ -7,7 +7,6 @@ Depends on `WP_ENV`.
 
 ### Installation
 
-WPACKAGIST NOT YET AVAILABLE - use github instead
 ```sh
 composer require marthesselink/dev-uploads-kittens --dev
 ```
